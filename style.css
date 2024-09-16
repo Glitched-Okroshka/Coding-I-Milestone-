@@ -1,0 +1,33 @@
+h1 {
+    color: aliceblue;
+}
+
+h2 {
+    color: paleturquoise;
+}
+
+.foolio {
+    color:darkorchid
+}
+
+body {
+    background-color: skyblue;
+}
+
+#coolio {
+    color:darkcyan 
+}
+
+.slay {
+    color:blueviolet
+}
+
+.header, .main, .footer {
+    text-align:center
+}
+
+header {
+    color:red
+    font-size: 40px;
+    font-family:Fantasy
+}
