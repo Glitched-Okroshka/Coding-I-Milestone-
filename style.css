@@ -22,12 +22,25 @@ body {
     color:blueviolet
 }
 
-.header, .main, .footer {
-    text-align:center
-}
-
 header {
     color:red
     font-size: 40px;
     font-family:Fantasy
 }
+.footer{
+    text-align:center
+}
+.main {
+    text-align:center
+}
+
+.header {
+    text-align:center
+}
+footer {
+    text-align:center
+}
+main {
+    text-align:center
+}
+header:hover{color:skyblue;}
